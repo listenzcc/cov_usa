@@ -1,0 +1,3 @@
+[submodule "COVIDExposureIndices"]
+	path = COVIDExposureIndices
+	url = https://github.com/COVIDExposureIndices/COVIDExposureIndices.git
